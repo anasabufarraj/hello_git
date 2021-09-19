@@ -1,2 +1,2 @@
-# hello_git
+# Hello, Git!
 Learning Git and GitHub
